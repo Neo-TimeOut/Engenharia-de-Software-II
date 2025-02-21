@@ -2,7 +2,7 @@
 
 
 
-#Projeto: Aplicação Web de Ajuda Nutricional
+# Projeto: Aplicação Web de Ajuda Nutricional
 
   Nosso projeto consiste no desenvolvimento de uma aplicação web voltada para a nutrição e bem-estar, oferecendo recursos que auxiliam os usuários a planejar suas dietas e treinos de forma personalizada. A plataforma permitirá que os usuários montem suas próprias dietas, consultem informações nutricionais de diversos alimentos e elaborem treinos com explicações detalhadas sobre os exercícios.
   
@@ -12,7 +12,7 @@
 
 
 
-#Tecnologias Utilizadas:
+# Tecnologias Utilizadas:
 
 
 HTML, CSS e Bootstrap – Para a estruturação e estilização da interface da aplicação.
@@ -20,7 +20,7 @@ HTML, CSS e Bootstrap – Para a estruturação e estilização da interface da 
 JavaScript – Para a interatividade e funcionalidades dinâmicas do site.
 
 
-#Membros Integrantes:
+# Membros Integrantes:
 
 - Renan Rabelo Paes de Araújo
 - Kauã Granadier Costa
