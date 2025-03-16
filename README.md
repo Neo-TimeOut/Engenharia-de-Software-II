@@ -2,7 +2,7 @@
 
 
 
-# Projeto: Aplicação Web de Ajuda Nutricional
+# 🚧 Projeto: Aplicação Web de Ajuda Nutricional
 
   Nosso projeto consiste no desenvolvimento de uma aplicação web voltada para a nutrição e bem-estar, oferecendo recursos que auxiliam os usuários a planejar suas dietas e treinos de forma personalizada. A plataforma permitirá que os usuários montem suas próprias dietas, consultem informações nutricionais de diversos alimentos e elaborem treinos com explicações detalhadas sobre os exercícios.
   
@@ -12,15 +12,21 @@
 
 
 
-# Tecnologias Utilizadas:
+# 🛠 Tecnologias Utilizadas:
+
+### 🌐 Front-end
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 🖥️ Back-End
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-HTML, CSS e Bootstrap – Para a estruturação e estilização da interface da aplicação.
-
-JavaScript – Para a interatividade e funcionalidades dinâmicas do site.
-
-
-# Membros Integrantes:
+# 👥 Membros Integrantes:
 
 - Renan Rabelo Paes de Araújo
 - Kauã Granadier Costa
