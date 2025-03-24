@@ -11,7 +11,7 @@
   Além disso, planejamos a possibilidade de monetização da plataforma através de rotinas de treino exclusivas. Essas rotinas seriam personalizadas para diferentes objetivos, como ganho de massa muscular, emagrecimento ou melhora do condicionamento físico. Poderíamos oferecer planos pagos com treinos estruturados e suporte para os usuários, tornando o projeto financeiramente sustentável.
 
 
-
+#
 # 🛠 Tecnologias Utilizadas
 
 ### 🌐 Front-end
