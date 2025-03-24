@@ -1,4 +1,4 @@
-# 📌 PÚBLICO ALVO: PERSONAS E USUÁRIOS
+# 📌 PÚBLICO ALVO: PERSONAS E HISTÓRIAS
 
 ![](https://github.com/eiKuan/lixoengsoft/blob/main/Imagens/CARLOS1.png)
 
