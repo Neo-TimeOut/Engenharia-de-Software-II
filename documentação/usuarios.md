@@ -1,6 +1,6 @@
 # 📌 PÚBLICO ALVO: PERSONAS E HISTÓRIAS
 
-![](https://github.com/eiKuan/lixoengsoft/blob/main/Imagens/CARLOS1.png)
+[!](https://github.com/eiKuan/lixoengsoft/blob/main/Imagens/CARLOS1.png)
 
 ## 👮 Persona 1: Histórias
 
