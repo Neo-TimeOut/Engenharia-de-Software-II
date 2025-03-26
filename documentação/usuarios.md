@@ -30,3 +30,24 @@
 
 #### 3. Eu, como leigo em nutrição e treino, quero acessar conteúdos confiáveis, para que eu possa evitar informações falsas e tomar decisões seguras.
 
+#
+
+## Persona 4: Histórias
+
+#### 1. Eu como iniciante na academia, quero poder consultar o passo a passo dos exercícios adequados com o meu objetivo de ganhar massa muscular, para que eu não acabe me lesionando por pegar muito pesado no inicio.
+
+#### 2. Eu como iniciante na academia, quero monitorar o meu consumo de água diário, tanto nos dias que eu for treinar, como nos dias que eu for ficar mais tranquilo, para que eu não me esqueça de beber água.
+
+#### 3. Eu como iniciante na academia, quero ver receitas e indicações de pré-treino e pós-treino, para que eu consigar dar um "gás" nos dias em que eu estiver desmotivado.
+
+#
+
+## Persona 5: Histórias
+
+#### 1. Eu como alguém que está mudando os hábitos alimentares, quero poder identificar a quantidade de nutrientes (Como proteínas, carboidrátos e calorias) que eu estou consumindo em minhas refeições, para garantir que estou me alimentando conforme o indicado pela minha médica.
+
+#### 2. Eu como alguém que está mudando os hábitos alimentares, quero encontrar receitas baseadas no meu objetivo de ganhar peso de uma forma saudável, identificando os ingredientes, seu valor nutricional e o modo de preparo.
+
+#### 3. Eu como alguém que está mudando os hábitos alimentares, quero ter acesso à algum tipo de feedback da minha evolução, uma espécie de relatório que mostre o quanto de peso que eu ganhei e perdi ao decorrer do mês, para que eu tenha o controle e tome novas decisões a partir disso.
+
+
