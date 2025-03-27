@@ -32,7 +32,7 @@
 
 #
 
-## Persona 4: Histórias
+## 🚶🙇 Persona 4: Histórias
 
 #### 1. Eu como iniciante na academia, quero poder consultar o passo a passo dos exercícios adequados com o meu objetivo de ganhar massa muscular, para que eu não acabe me lesionando por pegar muito pesado no inicio.
 
@@ -42,7 +42,7 @@
 
 #
 
-## Persona 5: Histórias
+## 🙆‍♀️🌼 Persona 5: Histórias
 
 #### 1. Eu como alguém que está mudando os hábitos alimentares, quero poder identificar a quantidade de nutrientes (Como proteínas, carboidrátos e calorias) que eu estou consumindo em minhas refeições, para garantir que estou me alimentando conforme o indicado pela minha médica.
 
