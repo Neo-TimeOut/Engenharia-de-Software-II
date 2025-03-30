@@ -28,7 +28,7 @@
 #
 # 🎯 [Público-Alvo](documentação/usuarios.md)
 
-# 💰  Monetização
+# 💰   [Monetização](documentação/monetizacao.md)
 
 # 👥 Contribuidores
 
