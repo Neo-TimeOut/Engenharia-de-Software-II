@@ -35,12 +35,26 @@
 ####  -Plano Premium: R$ 30,00
 ####  -Plano Premium Anual (20% de desconto): R$ 300,00
 
-## 📈 Viabilidade Financeira (Estimativa Mensal)
+## 📈 Viabilidade Financeira
 
+### Custos Fixos (Estimativa Mensal)
 ####  -Hospedagem – R$300,00
 ####  -Marketing – R$500,00
 ####  -Outros – R$300,00
 ####  -Total: R$1.100,00
+
+### Custos Variáveis por Usuário
+####  -Serviços de dados e servidores – R$0,50 por usuário
+####  -Atendimento personalizado – R$20,00 por usuário (para os planos premium)
+
+### Ponto de Equilíbrio
+####  -Para cobrir os custos fixos e variáveis, seria necessário atrair aproximadamente 38 usuários premium mensais.
+
+### Estimativa de Faturamento (Primeiro Ano)
+####  Com base em 100 usuários no primeiro ano:
+####  Plano Premium Mensal (50 usuários): R$18.000,00
+####  Plano Premium Anual (50 usuários): R$15.000,00
+####  Faturamento Total Estimado: R$33.000,00
 
 ## 📈 Escalabilidade
 
