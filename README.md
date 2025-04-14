@@ -28,6 +28,8 @@
 # 🎯 [Público-Alvo](documentação/usuarios.md)
 
 # 💰   [Monetização](documentação/monetizacao.md)
+  
+# 🖥️ [Figma](https://www.figma.com/design/sj7QCNFbRAiYcR4bNlcc1M/Trabalho-Glauco?node-id=321-92&p=f&t=LSC3DJTQMKSSOw3u-0)
 
 # 👥 Contribuidores
 
@@ -35,8 +37,5 @@
 - Kauã Granadier Costa
 - Lucas Lopes Nardi
 - Júlia Gonçalves da Rocha
-  
-# 🖥️ Link do Figma
 
-- https://www.figma.com/design/sj7QCNFbRAiYcR4bNlcc1M/Trabalho-Glauco?node-id=321-92&p=f&t=LSC3DJTQMKSSOw3u-0
 
