@@ -2,7 +2,7 @@
 
 ![](https://github.com/eiKuan/lixoengsoft/blob/main/Imagens/CARLOS1.png).
 
-## 👮 Persona 1: Histórias
+## 👮 Persona 1 (Carlos - Segurança): Histórias
 
 #### 1. Eu, como um fanático por musculação, quero criar uma rotina semanal de treino personalizado com diversos exercícios, para otimizar meu desempenho e evolução.
 
@@ -12,7 +12,7 @@
 #
 ![](https://github.com/eiKuan/lixoengsoft/blob/main/Imagens/Alice.png)
 
-## 🤸‍♀️ Persona 2: Histórias
+## 🤸‍♀️ Persona 2 (Alice - Modelo): Histórias
 
 #### 1. Eu, como alguém que ganha peso fácil, gostaria de ter acesso à diferentes opções alimentos e refeições com informação nutricional, para poder planejar e montar a minha alimentação diária e semanal nos mínimos detalhes, consultando calorias, proterias, gordura, etc.
 
@@ -22,7 +22,7 @@
 
 ![](https://github.com/eiKuan/lixoengsoft/blob/main/Imagens/pedro.png)
 
-## 🧑‍💻 Persona 3: Histórias
+## 🧑‍💻 Persona 3 (Pedro - Programador): Histórias
 
 #### 1. Eu, como iniciante em alimentação saudável, quero um aplicativo que me ajude a planejar minhas refeições do dia, consultando a qualquer hora minha rotina de alimentação.
 
@@ -32,7 +32,7 @@
 
 #
 
-## 🚶🙇 Persona 4: Histórias
+## 🚶🙇 Persona 4 (Jonas - Iniciante): Histórias
 
 #### 1. Eu como iniciante na academia, quero poder consultar o passo a passo dos exercícios adequados com o meu objetivo de ganhar massa muscular, para que eu não acabe me lesionando por pegar muito pesado no inicio.
 
@@ -40,7 +40,7 @@
 
 #
 
-## 🙆‍♀️🌼 Persona 5: Histórias
+## 🙆‍♀️🌼 Persona 5 (Márcia - Florista): Histórias
 
 #### 1. Eu como alguém que está mudando os hábitos alimentares, quero poder identificar a quantidade de nutrientes (Como proteínas, carboidrátos e calorias) que eu estou consumindo em minhas refeições, para garantir que estou me alimentando conforme o indicado pela minha médica.
 
