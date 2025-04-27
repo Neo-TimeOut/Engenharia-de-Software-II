@@ -11,10 +11,9 @@
 ####  -Acesso a tabela nutricional de alimentos;
 ####  -Acesso a tabela de treino;
 ####  -Lembretes;
-####  -Acesso aos menus de montagem de treino e criação de dieta
-####  -Personalização limitada do perfil
-####  -Contém Anúncios.
-
+####  -Acesso aos menus de montagem de treino e criação de dieta;
+####  -Contém Anúncios;
+####  -Acesso ao relatório mensal de progresso;
 #
  
 ### 👑 Plano Premium
@@ -23,11 +22,11 @@
 ####  -Acesso a tabela de treino;
 ####  -Lembretes;
 ####  -Acesso ilimitado às demonstrações dos exercícios cadastrados
-####  -Montagem de plano de exercícios personalizado
-####  -Montagem de plano de alimentação personalizado
-####  -Acesso ao relatório semanal e mensal do progresso;
-####  -Sem anúncios.
-####  -Personalizações adicionais do perfil
+####  -Montagem de plano de exercícios semanais;
+####  -Montagem de plano de alimentação semanais;
+####  -Acesso ao relatório mensal e anual do progresso;
+####  -Sem anúncios;
+####  -Utilização de gifs na foto e na capa de perfil de usuário
 
 ## 📌 Estrutura de Preços 
 
