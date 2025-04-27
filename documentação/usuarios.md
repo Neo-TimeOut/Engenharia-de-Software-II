@@ -12,7 +12,7 @@
 
 ## 🤸‍♀️ Persona 2 (Alice - Modelo): Histórias
 
-#### 1. Eu, como alguém que ganha peso fácil, gostaria de ter acesso à diferentes opções alimentos e refeições com informação nutricional, para poder planejar e montar a minha alimentação diária e semanal nos mínimos detalhes, consultando calorias, proterias, gordura, etc.
+#### 1. Eu, como alguém que ganha peso fácil, gostaria de ter acesso à diferentes opções alimentos e refeições com informação nutricional, para poder planejar e montar a minha alimentação diária e semanal nos mínimos detalhes.
 
 #### 2. Eu, como modelo esportiva, gostaria de ter acesso à uma explicação ou demonstração dos exercícios para que eu não me machuque durante as execuções.
 
@@ -30,9 +30,9 @@
 
 ## 🚶🙇 Persona 4 (Jonas - Iniciante): Histórias
 
-#### 1. Eu como iniciante na academia, quero poder consultar o passo a passo dos exercícios adequados com o meu objetivo de ganhar massa muscular, para que eu não acabe me lesionando por pegar muito pesado no inicio.
+#### 1. Eu como iniciante na academia, quero poder consultar os grupos musculares de cada exercício para que eu aprenda mais sobre musculação.
 
-#### 2. Eu como iniciante na academia, quero monitorar o meu consumo de água diário, tanto nos dias que eu for treinar, como nos dias que eu for ficar mais tranquilo, para que eu me aproxime cada vez mais do meu objetivo
+#### 2. Eu como iniciante na academia, quero monitorar o meu consumo diário de água, tanto nos dias que eu for treinar, como nos dias de descanso, para que eu me aproxime cada vez mais do meu objetivo.
 
 #
 
@@ -42,6 +42,6 @@
 
 #### 2. Eu como alguém que gosta de ser única, quero ter a possibilidade de personalizar meu perfil com minhas metas e deixar tudo com a minha cara.
 
-#### 3. Eu como alguém que gosta de evoluir quero ter acesso à um feedback da minha evolução, que mostre o quanto de peso que eu ganhei e perdi ao decorrer do mês, para que eu tenha o controle e tome novas decisões a partir disso.
+#### 3. Eu como alguém que gosta de evoluir quero ter acesso à um feedback do meu desempenho, me mostrando o quanto de peso eu ganhei ou perdi ao longo do tempo.
 
 
