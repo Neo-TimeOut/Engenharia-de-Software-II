@@ -1,6 +1,8 @@
 # 📌 PÚBLICO ALVO: PERSONAS E HISTÓRIAS
 
 ## 👮 Persona 1 (Carlos - Segurança): Histórias
+![](https://github.com/Neo-TimeOut/Engenharia-de-Software-II/blob/main/documenta%C3%A7%C3%A3o/Images/CarlaoD1.png)
+
 
 #### 1. Eu, como um fanático por musculação, quero criar uma rotina semanal de treino personalizado com diversos exercícios, para otimizar meu desempenho e evolução.
 
@@ -11,6 +13,8 @@
 #
 
 ## 🤸‍♀️ Persona 2 (Alice - Modelo): Histórias
+![](https://github.com/Neo-TimeOut/Engenharia-de-Software-II/blob/main/documenta%C3%A7%C3%A3o/Images/AlicaoD1.png)
+
 
 #### 1. Eu, como alguém que ganha peso fácil, gostaria de ter acesso à diferentes opções alimentos e refeições com informação nutricional, para poder planejar e montar a minha alimentação diária e semanal nos mínimos detalhes.
 
@@ -19,6 +23,8 @@
 #
 
 ## 🧑‍💻 Persona 3 (Pedro - Programador): Histórias
+![](https://github.com/Neo-TimeOut/Engenharia-de-Software-II/blob/main/documenta%C3%A7%C3%A3o/Images/PedraoD1.png)
+
 
 #### 1. Eu, como iniciante em alimentação saudável, quero um aplicativo que me ajude a planejar minhas refeições do dia, consultando a qualquer hora minha rotina de alimentação.
 
