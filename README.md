@@ -30,7 +30,7 @@
   
 # 🖥️ [Figma](https://www.figma.com/design/sj7QCNFbRAiYcR4bNlcc1M/Trabalho-Glauco?node-id=321-92&p=f&t=LSC3DJTQMKSSOw3u-0)
 # 📽️ [Vídeo do 1° protótipo](https://www.youtube.com/watch?v=jyv7lmC-WWg)
-# 📽️ [Diagrama Entidade-Relacionamento](https://github.com/Neo-TimeOut/Engenharia-de-Software-II/blob/main/documenta%C3%A7%C3%A3o/DER%20Nutricode.png)
+# ❤️ [Diagrama Entidade-Relacionamento](https://github.com/Neo-TimeOut/Engenharia-de-Software-II/blob/main/documenta%C3%A7%C3%A3o/DER%20Nutricode.png)
 
 # 👥 Contribuidores
 
