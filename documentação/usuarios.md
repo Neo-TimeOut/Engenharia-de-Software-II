@@ -12,6 +12,7 @@
 
 #### 4. Eu como alguém que está mudando os hábitos alimentares, quero poder identificar a quantidade de nutrientes (Como proteínas, carboidrátos e calorias) que eu estou consumindo em minhas refeições, para garantir que estou me alimentando bem.
 
+#### 5. Eu, como alguém competitivo e determinado, quero ganhar recompensas ao completar metas de treino e alimentação, para me manter motivado e tornar a jornada mais divertida.
 #
 
 ## 🤸‍♀️ Persona 2 (Alice - Modelo): Histórias
@@ -40,6 +41,8 @@
 #### 4. Eu, como leigo em nutrição e treino, quero acessar conteúdos confiáveis, desde a informação nutricional dos alimentos que irei consumir, até como cada treino deve ser feito para que eu possa evitar informações falsas e tomar decisões seguras.
 
 #### 5. Eu como iniciante na academia, quero poder consultar os grupos musculares de cada exercício para que eu aprenda mais sobre musculação.
+
+#### 6. Eu, como alguém que está tentando mudar de vida, quero receber notificações personalizadas com lembretes e mensagens motivacionais, para manter o foco nos meus objetivos mesmo nos dias mais difíceis.
 #
 
 
