@@ -28,7 +28,7 @@
 
 # 💰 [Monetização](documentação/monetizacao.md)
   
-# 🖥️ [Figma](https://www.figma.com/design/sj7QCNFbRAiYcR4bNlcc1M/Trabalho-Glauco?node-id=0-1&p=f&t=tyfGsAzgxpMiwClG-0)
+# 🖥️ [Figma](https://www.figma.com/design/sj7QCNFbRAiYcR4bNlcc1M/Nutricode?node-id=0-1&p=f&t=aQjq8esSQKWND4TZ-0)
 # 📽️ [Vídeo do 1° protótipo](https://www.youtube.com/watch?v=jyv7lmC-WWg)
 # ❤️ [Diagrama Entidade-Relacionamento](https://github.com/Neo-TimeOut/Engenharia-de-Software-II/blob/main/documenta%C3%A7%C3%A3o/DER%20Nutricode%20New.png)
 # 📋 [Diagrama Conceitual UML](https://miro.com/app/board/uXjVIq1JWFU=/?share_link_id=640516370515)
