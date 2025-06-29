@@ -33,6 +33,7 @@
 # ❤️ [Diagrama Entidade-Relacionamento](https://github.com/Neo-TimeOut/Engenharia-de-Software-II/blob/main/documenta%C3%A7%C3%A3o/DER%20Nutricode%20New.png)
 # 📋 [Diagrama Conceitual UML](https://miro.com/app/board/uXjVIq1JWFU=/?share_link_id=640516370515)
 # 📄 [Documento Final](https://github.com/Neo-TimeOut/Engenharia-de-Software-II/blob/main/documenta%C3%A7%C3%A3o/Documento%20Final.pdf)
+# 📽️ [Vídeo do 2° protótipo](https://www.youtube.com/watch?v=F4vib8719gA)
 
 # 👥 Contribuidores
 
