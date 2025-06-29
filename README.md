@@ -2,7 +2,7 @@
 
 
 
-# 🚧 Projeto: Aplicação Android de Ajuda Nutricional
+# 🚧 Projeto Nutricode: Aplicação Android de Ajuda Nutricional
 
   Nosso projeto consiste no desenvolvimento de uma aplicação Android voltada para a nutrição e bem-estar, oferecendo recursos que auxiliam os usuários a planejar suas dietas e treinos de forma personalizada. A plataforma permitirá que os usuários montem suas próprias dietas, consultem informações nutricionais de diversos alimentos e elaborem treinos com explicações detalhadas sobre os exercícios.
   
