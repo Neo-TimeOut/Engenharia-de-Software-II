@@ -26,6 +26,8 @@
 #### 3. Eu como alguém que gosta de ser única, quero ter a possibilidade de personalizar meu perfil e deixar tudo com a minha cara.
 
 #### 4. Eu como alguém que gosta de evoluir quero ter acesso à um feedback do meu desempenho, me mostrando o quanto de peso eu ganhei ou perdi ao longo do tempo.
+
+#### 5. Eu, como alguém que gosta de competir, quero poder desafiar meus amigos para atingir metas conjuntas.
 #
 
 ## 🧑‍💻 Persona 3 (Pedro - Programador): Histórias
